@@ -1,0 +1,6 @@
+{
+  "name": "HOSCARE - Hospital Care Management System",
+  "description": "Enterprise Hospital Management System with patient lifecycle tracking, multi-hospital administration, bed & ward management, and advanced laboratory sample analysis powered by Node.js and Python.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
